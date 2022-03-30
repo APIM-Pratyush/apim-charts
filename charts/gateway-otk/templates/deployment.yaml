@@ -160,3 +160,4 @@ spec:
         - name: {{ template "gateway.fullname" . }}-restman
           emptyDir: {}
 {{ end }}
+
